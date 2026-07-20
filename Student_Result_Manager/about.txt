@@ -1,0 +1,8 @@
+In this i use basics of python like Conditional statements-logic, loops-choice, dictionar-store data.
+
+Teacher can use this for the following purposes:
+1. add a student
+2. view all student
+3. check result.
+4. exit
+    
