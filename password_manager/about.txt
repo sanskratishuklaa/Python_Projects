@@ -1,0 +1,13 @@
+Password Manager Program 
+Uses:
+~ dictionary 
+~ loops
+~ conditional statements
+~ module:random 
+~ file handling 
+
+website:Password
+Includes: S
+random module
+file read/write 
+real world use case
