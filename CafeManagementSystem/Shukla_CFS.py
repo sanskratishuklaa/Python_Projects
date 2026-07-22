@@ -31,4 +31,4 @@ if otherOrder=="Yes":
         print(f"Oh!Sorry, Currently {item_2} is not available:)")
     
     print(f"Your Total Payment: {orderTotal}")
-    print("Thanks for Visit SHUKLA Cafe See you next time")
+    print("Thanks for Visit")
