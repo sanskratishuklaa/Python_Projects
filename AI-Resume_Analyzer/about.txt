@@ -1,0 +1,10 @@
+AI-Resume_analyzer
+python backend developer
+python, flask, database, tidb, openAI
+
+User login/signup 
+dashboard
+
+resume pdf/doc 
+upload- resume as a data analyst role 
+skills, new skills, interview preparation

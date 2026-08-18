@@ -1,7 +1,6 @@
 #define the name of dishes
 from tkinter import Menu
 
-
 Menu={
     'Pizza':50,
     'Pasta':40,
